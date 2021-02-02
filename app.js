@@ -8,7 +8,7 @@ app.get('/', (req, res) => {
     res.send(`
     <html>
     <body>
-        The Acme Corp
+        The Acme API 
     </body>
     </html>
     `)
